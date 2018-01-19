@@ -20,7 +20,8 @@ xcode7 & iOS7+
 10. TYCyclePagerView 轮播图
 11. TYPagerController 水平滚动页面控制器
 12. TYAttributedLabel图文混排在tableview中实现
-
+13.JTSImageViewController图片浏览框架
+14.headerview下拉图片放大框架
 
 截图
 
